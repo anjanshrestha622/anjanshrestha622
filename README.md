@@ -14,7 +14,7 @@
 - 🌐 &nbsp; HTML | CSS  | JavaScript  | Bootstrap | Material UI | Node.js | ReactJS | Redux | Webpack | WORDPRESS
 - 🛢 &nbsp; MongoDB | Firebase | REST | SQL
 - 🔧 &nbsp; Git | Markdown | Gitlab | Github
-- 🖥 &nbsp; Figma | Photoshop 
+- 🖥 &nbsp; Figma | Photoshop |Adobe XD
 
 <br/>
 
