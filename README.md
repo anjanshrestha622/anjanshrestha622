@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | C++
-- 🌐 &nbsp; HTML | CSS  | JavaScript  | Bootstrap | Material UI | Node.js | ReactJS | Redux | Webpack | WORDPRESS
+- 💻 &nbsp; Python|C | C++|
+- 🌐 &nbsp; Python|SQL| JavaScript|React|Redux|ANTD|Material U|
 - 🛢 &nbsp; MongoDB | Firebase | REST | SQL
 - 🔧 &nbsp; Git | Markdown | Gitlab | Github
 - 🖥 &nbsp; Figma | Photoshop |Adobe XD
